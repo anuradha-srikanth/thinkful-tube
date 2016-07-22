@@ -1,0 +1,32 @@
+#thumbnail, #title{
+    display: inline-block;
+    /*text-align: center;*/
+    vertical-align: top;
+}
+
+#thumbnail{
+    width: 100px;
+    height: 100px;
+    box-shadow: 1px 1px 1px #888888;
+    margin: 5px;
+}
+
+#title{
+    margin-left: 10px;
+}
+
+#item{
+    border: 1px solid black;
+}
+
+#search-term{
+    margin-bottom: 20px;
+    
+}
+/*
+#item{
+    text-align: center;
+    vertical-align: middle;
+
+}*/
+
